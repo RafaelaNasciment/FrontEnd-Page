@@ -1,0 +1,17 @@
+.main-title{
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 40px;
+    color: #7c7979;
+    text-shadow: 4px 4px 0 #000;
+}
+
+.main-title.-second{
+    color: aliceblue;
+    margin-bottom: 80px;
+}
+
+.main-title.-subtitle-skills{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400px;
+}

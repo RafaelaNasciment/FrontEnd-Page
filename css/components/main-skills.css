@@ -1,0 +1,8 @@
+.main-skills{
+    width: 960px;
+    height: 480px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

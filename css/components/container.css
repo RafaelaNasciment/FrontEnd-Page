@@ -1,0 +1,8 @@
+.container{
+    width: 438;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
