@@ -1,0 +1,18 @@
+.project-img{
+    width: 280px;
+    height: 280px;
+    box-shadow: 10px 10px 0px #fff;
+    
+}
+
+.project-img.c{
+    background-color: rgb(153, 3, 3);
+}
+
+.project-img.p{
+    background-color: #00831c;
+}
+
+.project-img.cy{
+    background-color: rgb(48, 82, 121);
+}
