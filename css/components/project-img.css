@@ -2,17 +2,13 @@
     width: 280px;
     height: 280px;
     box-shadow: 10px 10px 0px #fff;
-    
+    background-color: rgb(153, 3, 3);    
 }
 
-.project-img.c{
-    background-color: rgb(153, 3, 3);
-}
-
-.project-img.p{
+.project-img.-green{
     background-color: #00831c;
 }
 
-.project-img.cy{
+.project-img.-blue{
     background-color: rgb(48, 82, 121);
 }
