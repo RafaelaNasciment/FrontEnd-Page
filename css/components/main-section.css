@@ -1,4 +1,4 @@
-.skills{
+.main-section{
     background-color: #920735;
     border-bottom: 10px outset #920735;
     padding-top: 120px;
@@ -11,7 +11,7 @@
     height: max-content;
 }
 
-.skills.-project{
+.main-section.-project{
     background-color: #000;
     border-bottom: 10px outset #c0e2de; 
 }
